@@ -16,7 +16,7 @@ testfile.txt is a text file that can be used to test the program.
 
 3. Execute client.py on the client host by typing command line on client host:
 	'python3 client.py <server_address> <n_port>'
-   Where <server_address> should be the address of the server (ubuntu1604-002.student.cs.uwaterloo.ca) and <n_port> should be the port number same as above. 
+   Where <server_address> should be the address of the server and <n_port> should be the port number same as above. 
 
 4. On client host, when prompted, enter a command. 
    A command can be 'GET <filename>', 'PUT <filename>' or 'EXIT', otherwise invalid. 
