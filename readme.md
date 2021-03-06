@@ -9,7 +9,7 @@ testfile.txt is a text file that can be used to test the program.
 The server application was built and tested on ubuntu1604-002.student.cs.uwaterloo.ca
 The client application was built and tested on ubuntu1604-006.student.cs.uwaterloo.ca
 
-##Instructions
+## Instructions
 1. Execute server.py on the server host by typing command line on server host:
 	'python3 server.py <n_port>'
    where <n_port> is the port number. 
