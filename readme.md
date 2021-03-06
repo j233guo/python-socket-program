@@ -6,8 +6,6 @@ server.py is the server application
 client.py is the client application
 testfile.txt is a text file that can be used to test the program. 
 
-The server application was built and tested on ubuntu1604-002.student.cs.uwaterloo.ca
-The client application was built and tested on ubuntu1604-006.student.cs.uwaterloo.ca
 
 ## Instructions
 1. Execute server.py on the server host by typing command line on server host:
